@@ -1,2 +1,2 @@
 # PROJECTDA1
-Saya membuat project data analyst dari data Sales yang saya ambil dari website Kaggle menggunakan Microsoft Excel. 
+In this project, I have created a dashboard based on sales data taken from 'Kaggle.com'. I used Microsoft Excel to create this dashboard, utilizing various features, including pivot tables, formulas, data cleaning, and visualization.
